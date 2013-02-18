@@ -3,6 +3,7 @@
   "namespace":"org.fpml.confirmation",
   "name":"Confirmation",
   "version":"5.4",
+  "style":"message",
   "organization":{
     "name":"FPML",
     "webSiteUrl":"http://fpml.org"
